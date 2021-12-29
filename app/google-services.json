@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36981704285",
+    "project_id": "finallabtermial",
+    "storage_bucket": "finallabtermial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36981704285:android:94fc0c502083aaecceafb4",
+        "android_client_info": {
+          "package_name": "com.shoaibkakal.finallabtermial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36981704285-p4f5letldm07gjefbt15afmslgm5u2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9YHdP1zWrHuYIQFdvO9frD2bu4Y01KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36981704285-p4f5letldm07gjefbt15afmslgm5u2d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
